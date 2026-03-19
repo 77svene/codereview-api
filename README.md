@@ -49,3 +49,10 @@ Free tier: 5 code reviews/day with clear use case feedback. Upgrade for unlimite
 ### 🚀 Free Tier & Upgrade
 - **Free:** 5 uses/day via GitHub/HF.
 - **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
+
+**Use Case:** AI tool for analyzing Codereview Api tasks efficiently.
+
+
+### 🚀 Free Tier & Upgrade
+- **Free:** 5 uses/day via GitHub/HF.
+- **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
