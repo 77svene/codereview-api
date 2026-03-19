@@ -39,3 +39,6 @@ Start free today with usage limits — ideal for personal projects, learning, or
 ---
 
 *AI-powered code reviews for developers who move fast and care about quality.*
+
+## Free Tier & Monetization
+Free tier: 5 code reviews/day with clear use case feedback. Upgrade for unlimited via Stripe (no crypto).
