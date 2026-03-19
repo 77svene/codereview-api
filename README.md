@@ -1,6 +1,8 @@
-**Review code for bugs in 1 click**
+**Get instant AI code reviews and fixes in 1 click**
 
-Submit any code snippet with one POST request and receive a deep AI-powered code review in ~2.5 seconds. The service detects logical bugs, security vulnerabilities (OWASP Top 10), performance issues, and maintainability problems with the precision of an experienced senior engineer.
+As a developer, you know the pain of bugs slipping into production, lengthy PR feedback loops, or hours spent debugging issues you could have caught earlier. 
+
+Submit any code snippet with one POST request and receive an expert-level AI code review with specific, ready-to-apply fixes in ~2.5 seconds. Use it throughout your daily workflow to validate changes before committing, get a second opinion on complex logic, improve code before sending for review, or learn better patterns from every suggestion.
 
 ```bash
 curl -X POST https://api.codereview.ai/v1/review \
@@ -12,17 +14,28 @@ curl -X POST https://api.codereview.ai/v1/review \
   }'
 ```
 
-## AI Code Review API: Catch bugs and get instant fixes before merge
+## Catch issues early and ship higher-quality code faster
 
-Merge code with confidence instead of discovering issues after deployment. Get clear feedback on problems in your changes along with ready solutions that help you ship higher quality work faster and reduce time spent on fixes later.
+Developers use CodeReview.ai to:
+- Validate new functions or refactors locally before they ever reach git
+- Reduce back-and-forth during code reviews by fixing problems upfront
+- Learn senior-engineer standards through clear explanations and better alternatives
+- Cut time spent debugging production issues and technical debt
+
+The result: fewer production incidents, faster merge times, more confidence when shipping, and continuous improvement of your coding skills.
+
+## Pricing
+
+Start free today with usage limits — ideal for personal projects, learning, or trying it in your real workflow.
 
 | Plan       | Price     | Reviews/mo |
 |------------|-----------|------------|
+| Free       | $0        | 100        |
 | Pro        | $29/mo    | 500        |
 | Enterprise | $199/mo   | Unlimited  |
 
-**[Start Free Trial](https://buy.stripe.com/placeholder)** — 14 days, no credit card required.
+**[Get started for free](https://buy.stripe.com/placeholder)** — No credit card required. Free tier always available.
 
 ---
 
-*AI Code Review API — built for developers who ship fast and refuse to ship broken code.*
+*AI-powered code reviews for developers who move fast and care about quality.*
