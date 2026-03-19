@@ -12,7 +12,9 @@ curl -X POST https://api.codereview.ai/v1/review \
   }'
 ```
 
-## Pricing
+## AI Code Review API: Catch bugs and get instant fixes before merge
+
+Merge code with confidence instead of discovering issues after deployment. Get clear feedback on problems in your changes along with ready solutions that help you ship higher quality work faster and reduce time spent on fixes later.
 
 | Plan       | Price     | Reviews/mo |
 |------------|-----------|------------|
